@@ -1,0 +1,23 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	玄晖耀耀: {
+		DisplayName: 玄晖耀耀
+		Tooltip:
+			'''
+			在玩家中心的上下50格放置[c/FFEA00:火把]
+			不会[c/FAA0A0:覆盖]原有火把
+			'''
+	}
+
+	开天辟地: {
+		DisplayName: 开天辟地
+		Tooltip:
+			'''
+			生成一个简易的[c/FFB6C1:刷怪场]
+			请放置在[c/FFFDD0:⌈地下洞穴层⌋]
+			以前看404岛主的视频学的
+			[c/0FFF50:推荐]去b站看看刷怪场具体使用方法
+			'''
+	}
+}

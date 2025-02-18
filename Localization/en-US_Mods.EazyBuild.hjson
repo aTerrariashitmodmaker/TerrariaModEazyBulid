@@ -1,0 +1,21 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	玄晖耀耀: {
+		DisplayName: Light Shining
+		Tooltip:
+			'''
+			Place [c/FFEA00:Torch]s within 50 tiles around the player's center.
+			Will not [c/FAA0A0:cover] existing torches.
+			'''
+	}
+
+	开天辟地: {
+		DisplayName: Grand Creating
+		Tooltip:
+			'''
+			Generate a simple [c/FFB6C1:monster spawning area].
+			Please place it in [c/FFFDD0:⌈the Underground Cavern Layer⌋].
+			'''
+	}
+}

@@ -1,0 +1,2 @@
+This mod adds a new item which can quickly placed a lot of torchs around you (100*100 tiles) so that you can explore the map more efficiently.
+And it adds a new item to creat a large monster spawning area immediately,you can beat enemies conveniently and do not need to arrive at the different biomes to fight.

@@ -1,0 +1,3 @@
+displayName = EazyBuild
+author = 称威
+version = 0.1
